@@ -16,6 +16,10 @@ This plugin is meant to house both tweaks and additions to the base game alongsi
 - MarbleMadmax, Explicable, Princess Félicie, lizz for their tireless efforts poking and prodding the game to see what falls out.
 
 ### Features
+- Base Game Fixes / Tweaks
+  - This covers the vast majority of the "patch" that this plugin is mainly created for:
+    - StoreStage adjustments, which allow the vast majority of the previously "pouch-exclusive" items to appear in Scrooge's store (full credit to Romi on the specific pointers for these).
+    - ItemWeight adjustments, which greatly reduce the odds of repeat spawns in Scrooge's store (full credit to Romi on the specific pointers for these). 
 - Immediate Scrooge Resetting
   - Scrooge's shop will immediately reset upon exiting the shop and reentering, thus nullifying the need to wait any length of time to "refresh" the store.
 - Infinite Gliding
