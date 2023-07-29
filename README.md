@@ -16,6 +16,10 @@ This plugin is meant to house both tweaks and additions to the base game alongsi
 - MarbleMadmax, Explicable, Princess Félicie, lizz for their tireless efforts poking and prodding the game to see what falls out.
 
 ### Features
+- Immediate Scrooge Resetting
+  - Scrooge's shop will immediately reset upon exiting the shop and reentering, thus nullifying the need to wait any length of time to "refresh" the store.
+- Infinite Gliding
+  - Gliding/Sprinting will no longer consume / drain the stamina/energy meter.
 
 ### Configuration
 
