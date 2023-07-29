@@ -1,2 +1,2 @@
-# wiki.in-depth.dreamdust
-This repository houses the core / central part of the wiki released as part of the disclosure process for Disney Dreamlight Valley
+# The Dreamdust Plugin
+This plugin is meant to house both tweaks and additions to the base game alongside various Quality of Life improvements from other talented plugin authors and resources, credited below.
