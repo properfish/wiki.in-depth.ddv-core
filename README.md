@@ -13,14 +13,18 @@ This plugin is meant to house both tweaks and additions to the base game alongsi
   - This covers the vast majority of the "patch" that this plugin is mainly created for:
     - StoreStage adjustments, which allow the vast majority of the previously "pouch-exclusive" items to appear in Scrooge's store (full credit to Romi on the specific pointers for these).
     - ItemWeight adjustments, which greatly reduce the odds of repeat spawns in Scrooge's store (full credit to Romi on the specific pointers for these).
+- Infinite Gliding
+  - Gliding/Sprinting will no longer consume / drain the stamina/energy meter.
 
 **OFF BY DEFAULT**:
 - Immediate Scrooge Resetting
   - Scrooge's shop will immediately reset upon exiting the shop and reentering, thus nullifying the need to wait any length of time to "refresh" the store.
-- Infinite Gliding
-  - Gliding/Sprinting will no longer consume / drain the stamina/energy meter.
 - No Currency Spending
   - Any attempts at spending currency will be effectively canceled, thus leading to "free" items in Scrooge's (and _maybe_ other places)
+- Pickup Duplication
+  - Based fully on **aedenthorn**s original mod at: https://www.nexusmods.com/disneydreamlightvalley/mods/5
+- Infinite Mana
+  - Based fully on **aedenthorn**s original mod at: https://www.nexusmods.com/disneydreamlightvalley/mods/1 
 
 ### Configuration
 
