@@ -20,6 +20,8 @@ This plugin is meant to house both tweaks and additions to the base game alongsi
   - Scrooge's shop will immediately reset upon exiting the shop and reentering, thus nullifying the need to wait any length of time to "refresh" the store.
 - Infinite Gliding
   - Gliding/Sprinting will no longer consume / drain the stamina/energy meter.
+- No Currency Spending
+  - Any attempts at spending currency will be effectively canceled, thus leading to "free" items in Scrooge's (and _maybe_ other places)
 
 ### Configuration
 
