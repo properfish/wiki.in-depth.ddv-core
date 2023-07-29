@@ -13,6 +13,7 @@ This plugin is meant to house both tweaks and additions to the base game alongsi
   - This covers the vast majority of the "patch" that this plugin is mainly created for:
     - StoreStage adjustments, which allow the vast majority of the previously "pouch-exclusive" items to appear in Scrooge's store (full credit to Romi on the specific pointers for these).
     - ItemWeight adjustments, which greatly reduce the odds of repeat spawns in Scrooge's store (full credit to Romi on the specific pointers for these).
+
 **OFF BY DEFAULT**:
 - Immediate Scrooge Resetting
   - Scrooge's shop will immediately reset upon exiting the shop and reentering, thus nullifying the need to wait any length of time to "refresh" the store.
